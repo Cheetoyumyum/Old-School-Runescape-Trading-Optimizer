@@ -39,7 +39,3 @@ To run the application, simply run `python App.py` in your terminal.
 When prompted, enter the amount of gp you have. You can use 'k' for thousand, 'm' for million, or 'b' for billion. The application will then fetch the top 10 most profitable items you can buy and sell using that gp, and display the results in a grid format with relevant information for each item, including the profit per gp, sell price, buy price, and maximum units.
 
 You can exit the application at any time by pressing `Ctrl-C`.
-
-License
--------
-This project is licensed under the MIT License - see the `LICENSE` file for details.
