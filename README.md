@@ -1,11 +1,11 @@
-
+```
                                                                   
      _/_/_/  _/_/_/_/      _/_/_/_/_/                            _/                      
   _/        _/                _/      _/  _/_/    _/_/_/    _/_/_/    _/_/    _/  _/_/   
  _/  _/_/  _/_/_/            _/      _/_/      _/    _/  _/    _/  _/_/_/_/  _/_/        
 _/    _/  _/                _/      _/        _/    _/  _/    _/  _/        _/           
  _/_/_/  _/_/_/_/          _/      _/          _/_/_/    _/_/_/    _/_/_/  _/            
-
+```
 
 OSRS Price Calculator
 This is a Python application that helps you find the most profitable items to trade in Old School RuneScape (OSRS). It uses data from the OSRS Wiki API to fetch the latest prices and limits for all OSRS items, and calculates the profit per gold piece (gp) that can be made from buying and selling each item. It then recommends the top 10 most profitable items based on your current amount of gp.
